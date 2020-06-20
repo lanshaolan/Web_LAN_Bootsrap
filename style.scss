@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-    background : #f1f1f1;
+    background : white;
 }
 
 .carousel-item img {
@@ -22,4 +22,8 @@ body {
 .card img {
     height: 500px;
     object-fit: cover;
+}
+
+form {
+    margin :0 0 0 400px ;
 }

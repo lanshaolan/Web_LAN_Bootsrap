@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  background: #f1f1f1;
+  background: white;
 }
 
 .carousel-item img {
@@ -24,7 +24,7 @@ body {
      object-fit: cover;
 }
 
-.abc {
-  background: blueviolet;
+form {
+  margin: 0 0 0 400px;
 }
 /*# sourceMappingURL=style.css.map */
